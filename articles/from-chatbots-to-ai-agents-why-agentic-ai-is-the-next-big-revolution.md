@@ -28,7 +28,11 @@ For example, instead of simply explaining *how* to book a flight, an AI agent co
 
 This ability to reason, act, and learn from feedback makes AI agents one of the most promising advancements in modern artificial intelligence.
 
-*(Figure 1: Workflow of an AI agent—from understanding a goal to planning, taking action, and evaluating results.)*
+<div align="center">
+  <img src="../images/figure1.png" alt="Workflow of an AI agent" />
+  <br/>
+  <i>Figure 1: Workflow of an AI agent—from understanding a goal to planning, taking action, and evaluating results.</i>
+</div>
 
 ---
 
@@ -39,7 +43,11 @@ Although AI chatbots and AI agents are often discussed together, they serve very
 - **Chatbots** are primarily designed for conversation. They respond to questions, generate content, and provide information based on the prompts they receive. Their interaction usually begins and ends with a user’s request.
 - **AI Agents** take it to the next level. They don’t just respond; they actively work towards goals, complete multi-step tasks, and interact with other tools and systems. Furthermore, they can analyze information, make choices, and adapt their approach based on new data. 
 
-*(Figure 2: Chatbots respond to prompts, whereas AI agents can reason, plan, and take actions to achieve objectives.)*
+<div align="center">
+  <img src="../images/figure2.png" alt="Chatbots vs AI Agents" />
+  <br/>
+  <i>Figure 2: Chatbots respond to prompts, whereas AI agents can reason, plan, and take actions to achieve objectives.</i>
+</div>
 
 **Let’s look at an example:**
 If you need to send an email, a chatbot can help you write it. However, an AI agent can write the email, figure out who to send it to, decide the optimal time to send it, and monitor for a response. If there is no reply, the agent can automatically draft and send a follow-up email.
@@ -57,7 +65,11 @@ AI is increasingly being deployed across various fields to streamline workflows 
 *   **Business Operations:** Companies leverage AI to analyze market trends, process data, generate reports, manage inboxes, and automate repetitive processes. This frees up human employees to focus on high-value, strategic work that requires a human touch.
 *   **Healthcare:** Healthcare organizations are exploring AI agents to assist with appointment scheduling, patient communication, medical documentation, and administrative operations.
 
-*(Figure 3: Real-world applications of AI agents across industries, highlighting their growing role in automation, decision-making, and productivity enhancement.)*
+<div align="center">
+  <img src="../images/figure3.png" alt="Applications of AI Agents" />
+  <br/>
+  <i>Figure 3: Real-world applications of AI agents across industries, highlighting their growing role in automation, decision-making, and productivity enhancement.</i>
+</div>
 
 As AI technology continues to advance, the range of applications for autonomous agents is expected to grow significantly, making them a foundational component of future digital ecosystems.
 

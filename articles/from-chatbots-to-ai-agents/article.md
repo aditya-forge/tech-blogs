@@ -1,12 +1,14 @@
 # From Chatbots to AI Agents: Why Agentic AI Is the Next Big Revolution
 
 <div align="center">
-  <img src="./images/cover.png" alt="From Chatbots to AI Agents - Cover" width="700" />
+  <img src="./images/cover.png" alt="From Chatbots to AI Agents - Cover" width="800" />
 </div>
 
 <br/>
 
-*Read the original article on [Medium](https://medium.com/@aditya-forge/from-chatbots-to-ai-agents-why-agentic-ai-is-the-next-big-revolution-64257336f3b9).*
+<p align="center">
+  <i>Read the original article on <a href="https://medium.com/@aditya-forge/from-chatbots-to-ai-agents-why-agentic-ai-is-the-next-big-revolution-64257336f3b9">Medium</a></i>
+</p>
 
 ---
 
@@ -35,9 +37,11 @@ For example, instead of simply explaining *how* to book a flight, an AI agent co
 This ability to reason, act, and learn from feedback makes AI agents one of the most promising advancements in modern artificial intelligence.
 
 <div align="center">
-  <img src="./images/figure1.png" alt="AI Agent Workflow" width="700" />
   <br/>
+  <img src="./images/figure1.png" alt="AI Agent Workflow" width="750" />
+  <br/><br/>
   <i>Figure 1: Workflow of an AI agent—from understanding a goal to planning, taking action, and evaluating results.</i>
+  <br/><br/>
 </div>
 
 ---
@@ -50,25 +54,11 @@ Although AI chatbots and AI agents are often discussed together, they serve very
 - **AI Agents** take it to the next level. They don't just respond; they actively work towards goals, complete multi-step tasks, and interact with other tools and systems. Furthermore, they can analyze information, make choices, and adapt their approach based on new data.
 
 <div align="center">
-
-```mermaid
-mindmap
-  root((Chatbots vs AI Agents))
-    **Chatbots**
-      Generate Responses
-      Answer Questions
-      Limited Context
-      Single Interaction
-      Reactive
-    **AI Agents**
-      Goal-Oriented
-      Uses Tools & APIs
-      Multi-Step Workflows
-      Complete Tasks
-      Proactive
-```
-
-<i>Figure 2: Chatbots respond to prompts, whereas AI agents can reason, plan, and take actions to achieve objectives.</i>
+  <br/>
+  <img src="./images/figure2.png" alt="Chatbots vs AI Agents" width="750" />
+  <br/><br/>
+  <i>Figure 2: Chatbots respond to prompts, whereas AI agents can reason, plan, and take actions to achieve objectives.</i>
+  <br/><br/>
 </div>
 
 **Let's look at an example:**
@@ -88,37 +78,11 @@ AI is increasingly being deployed across various fields to streamline workflows 
 *   **Healthcare:** Healthcare organizations are exploring AI agents to assist with appointment scheduling, patient communication, medical documentation, and administrative operations.
 
 <div align="center">
-
-```mermaid
-mindmap
-  root((AI Agents))
-    **Healthcare**
-      Medical Documentation
-      Patient Support
-      Appointment Scheduling
-    **Education**
-      Personalized Learning
-      AI Tutors
-      Skill Assessment
-    **Software Development**
-      Code Reviews
-      Code Generation
-      Debugging
-    **Customer Support**
-      Ticket Resolution
-      Personalized Responses
-      24/7 Assistance
-    **Finance**
-      Automated Reporting
-      Fraud Detection
-      Risk Analysis
-    **Research**
-      Literature Review
-      Insight Generation
-      Data Analysis
-```
-
-<i>Figure 3: Real-world applications of AI agents across industries, highlighting their growing role in automation, decision-making, and productivity enhancement.</i>
+  <br/>
+  <img src="./images/figure3.png" alt="Applications of AI Agents" width="750" />
+  <br/><br/>
+  <i>Figure 3: Real-world applications of AI agents across industries, highlighting their growing role in automation, decision-making, and productivity enhancement.</i>
+  <br/><br/>
 </div>
 
 As AI technology continues to advance, the range of applications for autonomous agents is expected to grow significantly, making them a foundational component of future digital ecosystems.

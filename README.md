@@ -23,7 +23,7 @@
 
 | Date | Title | Topic | Link |
 | :---: | :--- | :---: | :---: |
-| **June 2026** | **From Chatbots to AI Agents: Why Agentic AI Is the Next Big Revolution** | 🤖 AI / Agents | [Read Article](./articles/from-chatbots-to-ai-agents-why-agentic-ai-is-the-next-big-revolution.md) |
+| **June 2026** | **From Chatbots to AI Agents: Why Agentic AI Is the Next Big Revolution** | 🤖 AI / Agents | [Read Article](./articles/from-chatbots-to-ai-agents/article.md) |
 
 ---
 

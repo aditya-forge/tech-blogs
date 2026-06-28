@@ -1,5 +1,9 @@
 # From Chatbots to AI Agents: Why Agentic AI Is the Next Big Revolution
 
+<div align="center">
+  <img src="../images/cover.png" alt="Cover Image" />
+</div>
+
 *Read the original article on [Medium](https://medium.com/@aditya-forge/from-chatbots-to-ai-agents-why-agentic-ai-is-the-next-big-revolution-64257336f3b9).*
 
 ---
